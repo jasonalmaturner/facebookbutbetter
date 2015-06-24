@@ -1,1 +1,1 @@
-var birds = ['red breasted merganser', 'cedar waxwing'. 'black capped chickadee']
+var birds = ['red breasted merganser', 'osprey', 'cedar waxwing'. 'black capped chickadee']
